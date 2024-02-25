@@ -659,7 +659,7 @@ $.get(xjget(`garden/gardenmemberwine/harvestWine?id=${a}`,token), async (err, re
 function member() {
  return new Promise((resolve) => {
   
-$.get(xjget(`member/recommend/personal_center?phone_no=17683989907`,token), async (err, resp, data) => {
+$.get(xjget(`member/recommend/personal_center?phone_no=13567340013`,token), async (err, resp, data) => {
        
       try {
         if (err) {
